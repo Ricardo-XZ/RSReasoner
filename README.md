@@ -4,7 +4,7 @@
 <!-- [**🤗 RSReasoner**](https://huggingface.co/datasets/RicardoString/RSReasoner) · [**🤗 RSReasoner-Bench**](https://huggingface.co/datasets/RicardoString/RSReasoner-Bench) -->
 
 <p align="center">
-  <!-- <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg" alt="arXiv"></a> -->
+  <a href="https://arxiv.org/abs/2611.32536"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg" alt="arXiv"></a>
   <a href="https://huggingface.co/datasets/RicardoString/RSReasoner"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-RSReasoner-ffd21e.svg" alt="RSReasoner"></a>
   <a href="https://huggingface.co/datasets/RicardoString/RSReasoner-Bench"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Benchmark-RSReasoner--Bench-ffd21e.svg" alt="RSReasoner-Bench"></a>
 </p>
